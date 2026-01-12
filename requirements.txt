@@ -1,0 +1,6 @@
+pandas
+ipykernel
+google-genai 
+pydantic
+scikit-learn
+python-dotenv
